@@ -23,7 +23,7 @@ These prototypes are in various stages of development, and in many cases are exp
 
 ### Overall user journey
 
-- [UX journey prototype](https://fa1rvwwsxx343.ons.statistics.gov.uk/Ahmad/ess-template/) (private) - 
+- [UX journey prototype](https://fa1rvwwsxx343.ons.statistics.gov.uk/Ahmad/ess-template/) (private) - An experimental user journey for exploring data at a national and local level.
 
 ### Semi-automated journalism
 
