@@ -19,19 +19,17 @@ Specifcally, ESS aims to provide one place for users to find, analyse, visualise
 
 These prototypes are in various stages of development, and in many cases are experimental. They may not end up becoming live products.
 
-> Note: Some of the links below are not currently public. These are marked as "private". We will make these public when we can.
-
 ### Overall user journey
 
-- [UX journey prototype](https://fa1rvwwsxx343.ons.statistics.gov.uk/Ahmad/ess-template/) (private) - An experimental user journey for exploring data at a national and local level.
+- [UX journey prototype](https://ess-prototypes-temp.netlify.app/Ahmad/ess-template/) (private) - An experimental user journey for exploring data at a national and local level.
 
 ### Semi-automated journalism
 
-- [Localised labour market bulletin](https://fa1rvwwsxx343.ons.statistics.gov.uk/Dan_Wainwright/ESS/employment_local_bulletin/) (private) - An example article describing a number of indicators at a local authority level.
+- [Localised labour market bulletin]([https://ess-prototypes-temp.netlify.app/Dan_Wainwright/ESS/employment_local_bulletin/) (private) - An example article describing a number of indicators at a local authority level.
 
 ### Data visualisations
 
-- [Data viz demos](https://fa1rvwwsxx343.ons.statistics.gov.uk/Ahmad/ess-demo/) (private) - Test visualisations using maps, line charts, scatter charts and tables.
+- [Data viz demos](https://ess-prototypes-temp.netlify.app/Ahmad/ess-demo/) (private) - Test visualisations using maps, line charts, scatter charts and tables.
 
 ## Tools and experiments
 
