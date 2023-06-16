@@ -21,7 +21,8 @@ These prototypes are in various stages of development, and in many cases are exp
 
 ### Overall user journey
 
-- [UX journey prototype](https://ess-prototypes-temp.netlify.app/Ahmad/ess-template/) - An experimental user journey for exploring data at a national and local level.
+- [UX journey prototype](https://onsvisual.github.io/ess-template/) (latest) - An experimental user journey for exploring data at a national and local level.
+- [UX journey prototype](https://ess-prototypes-temp.netlify.app/Ahmad/ess-template/) (stable) - A more stable version of the above journey, but without data.
 
 ### Semi-automated journalism
 
