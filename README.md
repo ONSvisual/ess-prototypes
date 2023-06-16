@@ -21,15 +21,15 @@ These prototypes are in various stages of development, and in many cases are exp
 
 ### Overall user journey
 
-- [UX journey prototype](https://ess-prototypes-temp.netlify.app/Ahmad/ess-template/) (private) - An experimental user journey for exploring data at a national and local level.
+- [UX journey prototype](https://ess-prototypes-temp.netlify.app/Ahmad/ess-template/) - An experimental user journey for exploring data at a national and local level.
 
 ### Semi-automated journalism
 
-- [Localised labour market bulletin]([https://ess-prototypes-temp.netlify.app/Dan_Wainwright/ESS/employment_local_bulletin/) (private) - An example article describing a number of indicators at a local authority level.
+- [Localised labour market bulletin](https://ess-prototypes-temp.netlify.app/Dan_Wainwright/ESS/employment_local_bulletin/) - An example article describing a number of indicators at a local authority level.
 
 ### Data visualisations
 
-- [Data viz demos](https://ess-prototypes-temp.netlify.app/Ahmad/ess-demo/) (private) - Test visualisations using maps, line charts, scatter charts and tables.
+- [Data viz demos](https://ess-prototypes-temp.netlify.app/Ahmad/ess-demo/) - Test visualisations using maps, line charts, scatter charts and tables.
 
 ## Tools and experiments
 
