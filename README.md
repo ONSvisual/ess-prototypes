@@ -8,7 +8,7 @@ Following the approach that we took in developing [products for Census 2021](htt
 
 The ESS service is part of the [GSS subnational data strategy](https://analysisfunction.civilservice.gov.uk/policy-store/gss-subnational-data-strategy/), which provides a framework to guide the UK Government Statistical Service (GSS) in producing and disseminating subnational statistics in a more timely, granular and harmonised way.
 
-Specifcally, ESS aims to provide one place for users to find, analyse, visualise and compare subnational statistics by standardised geographies and customer-defined areas.
+Specifically, ESS aims to provide one place for users to find, visualise, compare and download subnational statistics by standardised geographies and customer-defined areas.
 
 ## Live products
 
