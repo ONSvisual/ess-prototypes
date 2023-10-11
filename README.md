@@ -45,7 +45,7 @@ Some other tools and apps that we've built in the process of the ESS project.
 These initial proof-of-concept prototypes are not currently in active development.
 
 - [Subnational statistics maps](https://deploy-preview-491--dp-census-atlas.netlify.app/) - A port of [Census maps](https://www.ons.gov.uk/census/maps) with ESS datasets.
-- [Build a subnational profiles](https://deploy-preview-8--stately-salamander-b9768e.netlify.app/) - A port of [Build a custom area profile](https://www.ons.gov.uk/visualisations/customprofiles/) using LSOA geographies, and including GVA timeseries data.
+- [Build a subnational profile](https://deploy-preview-8--stately-salamander-b9768e.netlify.app/) - A port of [Build a custom area profile](https://www.ons.gov.uk/visualisations/customprofiles/) using LSOA geographies, and including GVA timeseries data.
 
 ## Other related project
 
