@@ -14,6 +14,7 @@ Specifically, ESS aims to provide one place for users to find, visualise, compar
 
 - [Area hub](https://www.ons.gov.uk/visualisations/areas/) (also [preview version](https://onsvisual.github.io/geo-hub/) with new updates) - Find areas in England and Wales, with links to relevant local content and data.
 - [Subnational indicators explorer](https://www.ons.gov.uk/peoplepopulationandcommunity/wellbeing/articles/subnationalindicatorsexplorer/2022-01-06) - Compare local authority areas using a selection of indicators.
+- Semi-automated journalism:[Localised labour market bulletin](https://www.ons.gov.uk/employmentandlabourmarket/peopleinwork/employmentandemployeetypes/articles/employmentunemploymentandrelatedstatisticsforyourarea/2023-10-05) - A localised bulletin describing a number of indicators for a selected local authority.
 
 ## Active prototypes
 
@@ -24,9 +25,6 @@ These prototypes are in various stages of development, and in many cases are exp
 - [UX journey prototype](https://onsvisual.github.io/ess-template/) (latest) - An experimental user journey for exploring data at a national and local level. Only "find a local area" section currently functions.
 - [UX journey prototype](https://ess-prototypes-temp.netlify.app/Ahmad/ess-template/) (stable) - A more stable version of the above journey with all sections, but without data/charts.
 
-### Semi-automated journalism
-
-- [Localised labour market bulletin](https://ess-prototypes-temp.netlify.app/Dan_Wainwright/ESS/employment_local_bulletin/) - An example article describing a number of indicators at a local authority level.
 
 ### Data visualisations
 
@@ -46,6 +44,7 @@ These initial proof-of-concept prototypes are not currently in active developmen
 
 - [Subnational statistics maps](https://deploy-preview-491--dp-census-atlas.netlify.app/) - A port of [Census maps](https://www.ons.gov.uk/census/maps) with ESS datasets.
 - [Build a subnational profile](https://deploy-preview-8--stately-salamander-b9768e.netlify.app/) - A port of [Build a custom area profile](https://www.ons.gov.uk/visualisations/customprofiles/) using LSOA geographies, and including GVA timeseries data.
+- [Localised labour market bulletin](https://ess-prototypes-temp.netlify.app/dan_wainwright/ess/employment_local_bulletin/) a semi-automated demo component providing text and charts for labour market indicators to local authority level.
 
 ## Other related project
 
