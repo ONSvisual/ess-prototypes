@@ -13,7 +13,7 @@ Specifically, ESS aims to provide one place for users to find, visualise, compar
 ## Live products
 
 - [Area hub](https://www.ons.gov.uk/visualisations/areas/) (also [preview version](https://onsvisual.github.io/geo-hub/) with new updates) - Find areas in England and Wales, with links to relevant local content and data.
-- [Subnational indicators explorer](https://www.ons.gov.uk/peoplepopulationandcommunity/wellbeing/articles/subnationalindicatorsexplorer/2022-01-06) - Compare local authority areas using a selection of indicators.
+- [Subnational indicators explorer](https://www.ons.gov.uk/peoplepopulationandcommunity/wellbeing/articles/subnationalindicatorsexplorer/2022-01-06) (see [source code and data](https://github.com/ONSvisual/subnational-indicators)) - Compare local authority areas using a selection of indicators.
 - [Localised labour market bulletin](https://www.ons.gov.uk/employmentandlabourmarket/peopleinwork/employmentandemployeetypes/articles/employmentunemploymentandrelatedstatisticsforyourarea/2023-10-05) (semi-automated journalism) - A localised bulletin describing a number of indicators for a selected local authority.
 
 ## Active prototypes
